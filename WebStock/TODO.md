@@ -1,0 +1,4 @@
+- [x] Modify html/home.html: Change bell link to button with onclick, add notification box HTML, include app.js script
+- [x] Update css/home.css: Add styles for .notification-box with slide animation
+- [x] Update js/app.js: Add toggleNotifications() function
+- [x] Test by opening home.html in browser
